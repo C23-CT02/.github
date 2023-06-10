@@ -3,7 +3,7 @@
     <img src="https://github.com/C23-CT02/.github/blob/main/resources/evomo.png" width='200dp' alt="Logo" >
   </a>
   
-  <h3 align="center">Product Counter - Count Your Products Now!</h3>
+  <h3 align="center">BeltTrackr - Evomo Manufacture Product Counter Application</h3>
   <p align="center">
     <strong>Bangkit Capstone Project</strong> <br>
     Solving the need for manufacturing companies to have highly customizable and scalable systems and sensors for object detection. 
